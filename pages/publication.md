@@ -1,0 +1,122 @@
+---
+
+layout: page
+
+show_meta: false
+
+title: "Publication"
+
+subheadline: ""
+
+teaser: 
+
+header:
+
+   image_fullwidth: 
+
+permalink: "/publication/"
+
+---
+[1]W. Wu(吴炜), X. Yang*(杨晓敏), H. Li, K. Liu(刘凯), L. Jian, Z. Zhou, A novel scheme for infrared image enhancement by using weighted least squares filter and fuzzy plateau histogram equalization, Multimedia Tools and Applications, 2017, 76(23): 24789-24817. (SCI) 
+
+[2]W. Wu(吴炜), X. Yang*(杨晓敏), K. Liu(刘凯)，Y. Liu, B. Yan, H. Hua. A new framework for remote sensing image super-resolution: Sparse representation-based method by processing dictionaries with multi-type features[J]. Journal of Systems Architecture. 2016, 64: 63–75. (SCI) 
+
+[3]W. Wu(吴炜), Z. Liu*, Y. He, Classification of defects with ensemble methods in the automated visual inspection of sewer pipes[J]. Pattern Analysis and Applications 18 (2015), 263-276. (SCI) 
+
+[4]W. Wu(吴炜), X. Yang(杨晓敏), Y. Pang, J.Peng*, G. Jeon. A multifocus image fusion method by using hidden Markov model[J]. Optics Communications. 2013, 287(1): 63–72.(SCI) 
+
+[5]W. Wu(吴炜), Z. Liu, M. Chen, Z. Liu, X. Wu, X. He, A new framework for container code recognition by using segmentation-based and HMM-based approaches. International Journal of Pattern Recognition and Artificial Intelligence.2015, 1550004 (SCI)
+
+[6]吴炜, 郑成林, 张莹莹,等. 广义非局部均值和自相似性的超分辨率算法[J]. 西安电子科技大学学报(自然科学版), 2014, 4(14):100-107. (EI)
+
+[7]李红, 吴炜*, 杨晓敏, 刘凯. 基于主特征提取的Retinex多谱段图像增强[J]. 物理学报. 2016, 65(16):57–72. (SCI) 
+
+[8]H. Li, X. Yang (杨晓敏), L. Jian, K. Liu (刘凯), Yuan, Y., & Wu, W*(吴炜). A sparse representation-based image resolution improvement method by processing multiple dictionary pairs with latent Dirichlet allocation model for street view images. Sustainable Cities and Society, 2017,38:55-69. (SCI)  
+
+[9]Y. Song, W. Wu*(吴炜), Z. Liu, X. Yang(杨晓敏), K. Liu(刘凯), W. Lu. An adaptive pansharpening method by using weighted least squares filter[J]. IEEE Geoscience and Remote Sensing Letters. 2016,13(1):18–22. (SCI) 
+
+[10]X. Yang (杨晓敏), W. Wu* (吴炜), K. Liu (刘凯), P. Kim, A.Sangaiah, G. Jeon. Long-distance object recognition with image super resolution: A comparative study. IEEE Access, 2018. DOI: 10.1109/ACCESS.2018.2799861. (SCI) 
+
+[11]X. Yang (杨晓敏), W. Wu* (吴炜), K. Liu (刘凯), P. Kim, A.Sangaiah, G. Jeon. Multi-semi-couple Super-resolution Method for Edge Computing. IEEE Access, 2018. 2018. 6：5511-5520. (SCI) 
+
+[12]X. Yang(杨晓敏), W. Wu*(吴炜), K. Liu(刘凯)，K. Zhou, B. Yan. Fast multisensor infrared image super-resolution scheme with multiple regression models[J]. Journal of Systems Architecture. 2016, 64:11–25. (SCI) 
+
+[13]X. Yang (杨晓敏), W. Wu*(吴炜), K. Liu(刘凯), W. Chen, P. Zhang, Z. Zhou. Multi-sensor Image Super-resolution with Fuzzy Cluster by Using Multi-scale and Multi-view Sparse Representation for Infrared Image[J]. Multimidia tools and applications.2017, 76(23):24871-24902. (SCI)
+
+[14]X. Yang (杨晓敏), W. Wu*(吴炜), B. Yan, H. Wang, K. Zhou, K. Liu(刘凯). Infrared Image Super-Resolution with Parallel Random Forest. International Journal of Parallel Programming, DOI: https://doi.org/10.1007/s10766-017-0551-9. (SCI) 
+
+[15]X. Yang (杨晓敏), W. Wu*(吴炜), K. Liu (刘凯), W. Chen, Z. Zhou. Multiple dictionary pairs learning and sparse representation-based infrared image super-resolution with improved fuzzy clustering[J]. Soft Computing, 2018, 22(5):1385–1398. (SCI) 
+
+[16]K. Li, W. Wu*(吴炜), X. Yang(杨晓敏), Y. Zhang, B. Yan. Nonsubsampled Contourlet Transform Based Infrared Image Super-Resolution by Using Sparse Dictionary and Residual Dictionary[J]. International Journal of Multimedia and Ubiquitous Engineering. 2016,11(7) :219–234. (EI)
+
+[17]P. Wang, W. Wu*(吴炜), X. Yang(杨晓敏), K. Liu (刘凯), G. Jeon. Image quality assessment with saliency map in nonsubsampled contourlet transform domain[J], International Journal of Multimedia and Ubiquitous Engineering. 2016, 11(6):349–360. (EI) 
+
+[18]X. Yang(杨晓敏), W. Wu*(吴炜), K. Liu (刘凯), H. Hua. Infrared image recovery from visible image by using multi-scale and multi-view sparse representation[C]. Proceedings of 11th International Conference on Signal-Image Technology & Internet-Based Systems. 2015:554–559. (EI) 
+
+[19]杨晓敏, 吴炜*, 干宗良, 严斌宇, 张莹莹. 一种基于稀疏字典和残余字典的遥感图像超分辨重建算法[J]. 四川大学学报(工程版). 2015, 47(3):71–76. (EI) 
+
+[20]X. Yang(杨晓敏), W. Wu*(吴炜), W. Chen , G. Jeon , B. Yan. Remote sensing image super-resolution using dual-dictionary pairs based on sparse presentation and multiple features[C]. Proceedings of International Conference on Internet Multimedia Computing and Service. 2014: 90–94. (EI) 
+
+[21]H. Li, X. Yang(杨晓敏), W. Wu*(吴炜), K. Liu(刘凯). A new framework for infrared image enhancement[C]. Proceedings of 11th International Conference on Signal-Image Technology & Internet-Based Systems. 2015:566–571. (EI) 
+
+[22]Z. Liu, E. Blasch,G. Bhatnagar, V. John, W. Wu (吴炜), S. Blum.. Fusing synergistic information from multi-sensor images: An overview from implementation to performance assessment [J]. Information Fusion, 2018, 42:127-145. (SCI) 
+
+[23]J. Wu, M. Anisetti, W. Wu (吴炜), E. Damiani, G. Jeon. Bayer Demosaicking with Polynomial Interpolation[J]. IEEE Transactions on Image Processing, 2016, 25(11):5369-5382. (SCI)
+
+[24]W. Gan , X. Wu , W. Wu(吴炜), X. Yang(杨晓敏), C. Ren. Infrared and visible image fusion with the use of multi-scale edge-preserving decomposition and guided image filter[J]. Infrared Physics & Technology. 2015,72:37–51.(SCI) 
+
+[25]X. Yang(杨晓敏), K. Liu*(刘凯), Z. Gan, B. Yan. Multiscale and multitopic sparse representation for multisensor infrared image superresolution[J]. Journal of Sensors. 2016,7036349. (SCI) 
+
+[26]L. Jian, X. Yang *(杨晓敏), Z. Zhou, K. Zhou , K. Liu (刘凯). Multi-scale image fusion through rolling guidance filter. Future Generation Computer Systems. DOI: https://doi.org/10.1016/j.future.2018.01.039. (SCI) 
+
+[27]F. Tao, X. Yang *(杨晓敏), W. Wu (吴炜), K. Liu(刘凯), Z. Zhou, Y. Liu. Retinex-based image enhancement framework by using region covariance filter[J]. Soft Computing, 2018, 22(5):1399–1420. (SCI) 
+
+[28]S. Wei, X. Zhou*, W. Wu (吴炜), Q. Pu, Q. Wang, X. Yang* (杨晓敏). Medical image super-resolution by using multi-dictionary and random forest. Sustainable Cities and Society, 2017,37:358-370. 
+
+[29]Y. Wang, X. Yang*(杨晓敏), W. Wu(吴炜), B. Su, G. Jeon. An X-ray inspection system for illegal object classification based on computer vision[J]. International Journal of Security and Its Applications. 2016, 10(10) :155–168. 
+
+[30]Y. Long, S. Wang, W. Wu(吴炜), X. Yang(杨晓敏), G. Jeon, K. Liu*(刘凯). Decoding line structured light patterns by using Fourier analysis[J]. Optical Engineering. 2015,54(7):1–6.
+
+[31]Y. Long, S. Wang, W. Wu(吴炜), X. Yang(杨晓敏), G. Jeon, K. Liu*(刘凯). Structured -light-assisted wireless digital optical communications. Optics Communications. 2015, 355(11): 406–410
+
+[32]K. Liu*(刘凯), X. Luo, W. Wu(吴炜), X. Yang (杨晓敏), X. Zheng. Fast and accurate calibration algorithm for laser pointer tracking via structured light illumination [J]. Electronic Letters. 2014, 50(25):1946–1948.
+
+[33]Yang C, Yang X (杨晓敏), Yang F. A system based on Hadoop for radar data analysis[J]. Journal of Ambient Intelligence and Humanized Computing, 2018: 1-15.
+
+[34]Li Z, Yang X (杨晓敏), Song J, et al. Improving Resolution of 3D Surface With Convolutional Neural Networks[J]. Sustainable Cities and Society, 2018, 42: 127-138.
+
+[35]Li Q, Yang X (杨晓敏), Wu W (吴炜), et al. Multi-Focus Image Fusion Method for Vision Sensor Systems via Dictionary Learning with Guided Filter[J]. Sensors, 2018, 18(7): 2143.
+
+[36]Yang X (杨晓敏), Jian L, Wu W (吴炜), et al. Implementing real-time RCF-Retinex image enhancement method using CUDA[J]. Journal of Real-Time Image Processing, 2018: 1-11.
+
+[37]Yang X (杨晓敏), Jian L, Yan B, et al. A sparse representation based pansharpening method[J]. Future Generation Computer Systems, 2018.
+
+[38]Dou Q, Wei S, Yang X (杨晓敏), et al. Medical image super-resolution via minimum error regression model selection using random forest[J]. Sustainable Cities and Society, 2018, 42: 1-12.
+
+[39]Jian L, Yang X (杨晓敏), Wu W, et al. Pansharpening using a guided image filter based on dual-scale detail extraction[J]. Journal of Ambient Intelligence and Humanized Computing, 2018: 1-15.Y
+
+[40]Yuan Y, Yang X (杨晓敏), Wu W (吴炜), et al. A fast single-image super-resolution method implemented with CUDA[J]. Journal of Real-Time Image Processing, 1-17.
+
+[41]Jiang W, Yang X (杨晓敏), Wu W (吴炜), et al. Medical images fusion by using weighted least squares filter and sparse representation[J]. Computers & Electrical Engineering, 2018, 67: 252-266.
+
+[42]Lu W, Yang X (杨晓敏), Gou X, et al. Parallel Heat Kernel Volume Based Local Binary Pattern on Multi-Orientation Planes for Face Representation[J]. International Journal of Parallel Programming, 2017: 1-20.
+
+[43]Wang H, Jiang Y, Jiang X, et al. Automatic vessel segmentation on fundus images using vessel filtering and fuzzy entropy[J]. Soft Computing, 2018, 22(5): 1501-1509.
+
+[44]Yang X (杨晓敏), Wu W, Liu K, et al. Multi-sensor image super-resolution with fuzzy cluster by using multi-scale and multi-view sparse coding for infrared image[J]. Multimedia Tools and Applications, 2017, 76(23): 24871-24902.
+
+[45]Wang J, Han K, Alexandridis A, et al. A novel security scheme for Body Area Networks compatible with smart vehicles[J]. Computer Networks, 2018, 143: 74-81.
+
+[46]Li B, He M, Wu W (吴炜), et al. Computation Offloading Algorithm for Arbitrarily Divisible Applications in Mobile Edge Computing Environments: An OCR Case[J]. Sustainability, 2018, 10(5): 1611.
+
+[47]Li G, Zhou Y, Bai T, et al. Performance analysis for low-complexity detection of MIMO V2V communication systems[J]. Computer Networks, 2018, 140: 92-100.
+
+[48]Bai T, Lin J, Li G, et al. A lightweight method of data encryption in BANs using electrocardiogram signal[J]. Future Generation Computer Systems, 2018.
+
+[49]Liu Z, Blasch E, Bhatnagar G, et al. Fusing synergistic information from multi-sensor images: an overview from implementation to performance assessment[J]. Information Fusion, 2018, 42: 127-145.
+
+[50]Bai T, Lin J, Li G, et al. An optimized protocol for QoS and energy efficiency on wireless body area networks[J]. Peer-to-Peer Networking and Applications, 2017: 1-11.
+
+[51]Wang W, Si M, Pang Y, et al. An encryption algorithm based on combined chaos in body area networks[J]. Computers & Electrical Engineering, 2018, 65: 282-291.
+
+[52]Li Q, Yang X(杨晓敏), Wu W (吴炜), K. Liu*(刘凯)，et al. Pansharpening multispectral remote‐sensing images with guided filter for monitoring impact of human behavior on environment[J]. Concurrency and Computation: Practice and Experience, e5074.
