@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth:
-title: "UWB Lab @ SCU"
+title: "UWB Lab @ OUC"
 
 #slider:
 #text_color: white
