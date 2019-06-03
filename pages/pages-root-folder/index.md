@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth:
-title: "CVAI Lab @ SCU"
+title: "UWB Lab @ SCU"
 
 #slider:
 #text_color: white
