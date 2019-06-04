@@ -101,7 +101,7 @@ permalink: "/publication/"
 6.	Xiaolin Liang, Tingting Lyu, Hao Zhang, Han Xiao, T. Aaron Gulliver, A Novel Time of Arrival Estimation Algorithm Using an Energy Detector Receiver in MMW Systems, EURASIP Journal on Advances in Signal Processing, 2017, 2017 (83): 1-13. (SCI) (41527901, GF**********03, 201713018, 61701462, 2017ASKJ01, 17-1-1-7-jch)
 7.	Yiheng Jin, Tingting Lu, Hao Zhang, T. Aaron Gulliver. "Acquisition Performance of a BDS Receiver with UWB Impulse Radio In-terference", Recent Patents on Engineering. 2018, Vol. 12, No. 1 (EI Accepted) (41527901, 201713018, GF**********03)
 
-#### 2016年
+### 2016年
 
 8.	 Xinjie Wang, Nan Yang, T. Hoang, T. Aaron Gulliver, Hao Zhang. Generalised selection at multi-antenna sources in two-way relay networks. IET Commun., 2016, 10(7): 824-831 (SCI)
 9.	Liang, Xiaolin, Zhang, Hao, Lu, Tingting, Gulliver, T. Aaron, NLOS identification approach based on energy block for 60GHz systems, International Journal of Database Theory and Application, 2016, 9 (9): 59-74. (EI) (60902005, 12-1-4-137-hz, 14-2-4-37-jch)
@@ -117,7 +117,7 @@ permalink: "/publication/"
 19.	Liang, Xiaolin, Zhang, Hao, Lu, Tingting, Gulliver, T. Aaron, A novel TOA estimation algorithm based on Kurtosis and standard slope in the 60GHz sensor network, International Journal of Future Generation Communication and Networking, 2016, 9 (3): 123-138. (EI) (60902005, 12-1-4-137-hz, 14-2-4-37-jch) 
 20.	Tingtinglu, Hao Zhang, Xuerong Cui, Jing Cui, T. Aaron Gulliver, Accuracy analysis of an impulse radio 60 GHz positioning system, The 2016 International Conference on Computer, Information and Telecommunication Systems (CITS’ 2016), Kunming, China. Aug. 2016， pp. 1-4.(EI: 20163802815470)
 
-#### 2015年
+### 2015年
 
 21.	张浩，梁晓林，吕婷婷，徐凌伟,“一种新的基于偏度的非视距区分算法”，电讯技术. 2015. 5，55（3）：484-490.（60902005, 12-1-4-137-hz）
 22.	Liang, Xiaolin, Zhang, Hao, Lu, Tingting, Gulliver, T. Aaron, NLOS channel identification based on energy detection in 60 GHz communication systems, IEEE Pacific RIM Conference on Communications, Computers, and Signal Processing, 2015: 496-500. (EI) (60902005, 12-1-4-137-hz, 14-2-4-37-jch)
@@ -145,7 +145,7 @@ permalink: "/publication/"
 44.	李曼,张浩,吕婷婷,徐凌伟,Gulliver T A,一种60GHz脉冲发生器的设计与仿真，电声技术,2015,39(3):40-53.( 60902005,61304222, ZR2012FQ021,12-1-4-137-hz)
 45.	徐凌伟, 张浩, 吴春雷, 王景景, Gulliver T A. 基于SSD的移动无线传感器网络系统的性能分析, 科技通报. 2015(11):154-158
 
-#### 2014年
+### 2014年
 
 46.	王帅, 徐凌伟. 北斗卫星导航系统体声波滤波器设计. 中国新技术新产品, 2014, 第4期:5-6.
 47.	徐凌伟, 张浩, 吴春雷, 王帅, Gulliver T A. 基于TAS/STBC方案的无线传感器网络系统的性能分析, 传感技术学报, 2014, 27(7): 948-955. (60902005, 61304222, ZR2012FQ021, 12-1-4-137-hz)
@@ -160,7 +160,7 @@ permalink: "/publication/"
 56.	徐凌伟, 张浩, 刘兴,王景景, 吴春雷,“60GHz室内信道下一种快速天线选择算法”,微波学报,2014, 第5期:11-16.(60902005,61304222,ZR2012FQ021,12-1-4-137-hz)
 57.	徐凌伟,张浩,刘兴,吴春雷,Gulliver T A,“发射天线选择正交空时码系统的性能分析”,电子技术应用." 电子技术应用 10期(2014):109-112.(60902005,61304222, ZR2012FQ021 ,12-1-4-137-hz)
 
-#### 2013年
+### 2013年
 
 58.	Hao Zhang, Tingting Lu, T. Aaron Gulliver, “Pulse waveforms for 60GHz M-ary PPM communication systems”, IET communications, vol 7, issue 2, pp. 169-179, Jan. 2013 (SCI收录：WOS:000318229900009)(60902005, No. 12-1-4-137-hz)
 59.	H. Zhang, H. Zhang, C. Wu, W. Shi, X. Wang and T.A. Gulliver, “Compressed Sensing based Interference Mitigation in UWB Systems”, Proc. IEEE Pacific Rim Conf. on Commun., Computers and Signal Processing, pp. 233-236, Aug. 2013.(EI收录：20135017065075)(No. 60902005, No. 12-1-4-137-hz)
@@ -174,7 +174,7 @@ permalink: "/publication/"
 67.	Shunyu Shi, Tingting Lu, Hao Zhang, Lingwei Xu, T. Aaron Gulliver, a design of active RFID tags based on NRF24L01, 2013 10th international computer conference on wavelet active media technology and information processing (ICCWAMTIP), Dec. 2013, pp. 210-213, Chengdong, China.
 68.	Hao Zhang, Fei Guo, Tingting Lu, Lingwei Xu, T. Aaron Gulliver, Study on distance and angle measurement for single-base-station UWB positioning system with circular antenna array, 2013 10th international computer conference on wavelet active media technology and information processing (ICCWAMTIP), Dec. 2013, pp. 117-121, Chengdong, China.
 
-#### 2012年
+### 2012年
 
 69.	Hao Zhang, Wei Shi,Ting-ting Lvand T. Aaron Gulliver,“ Error Probability Analysis of Time-Hopping Biorthogonal Pulse Position Modulation UWB Systems with a RAKE Receiver over Indoor Multi-Path Fading Channels” Advanced Materials Research, vol.433-440, 2012, p p2011-2018（EI收录：20120414712450）
 70.	Hao Zhang, Shanmei Zhang, Chunlei Wu, T. Aaron Gulliver, A High Resolution Algorithm for Estimating DOA of the 60 GHz Signal, 2012 Fourth International Symposium on Information Science and Engineering, Information Processing Methods, pp.465-468, Dec.14-16, 2012 Shanghai Institute of Electronics, China. ( EI收录：20132016338001)(60902005  No.12-1-4-137-hz )
@@ -185,7 +185,7 @@ permalink: "/publication/"
 75.	Hao Zhang, Xinjie Wang, Jingjing Wang, T. Aaron Gulliver, Performance of Incremental DF Cooperative Networks with the Nth Best-Relay over Identical Rayleigh Fading Channels, 2012 Seventh International Conference on Broadband and Wireless Computing, Communication and Applications, Victoria, B.C., Canada, pp.239-243, Nov.12-14, 2012. (EI:20130916063251)( No. 12-1-4-137-hz )
 76.	Hao Zhang, Hongjiao Zhang, Xuerong Cui, T. Aaron Gulliver, Multi-user Interference Mitigation in TH-PPM-UWB Systems, 2012 Seventh International Conference on Broadband and Wireless Computing, Communication and Applications, Victoria, B.C., Canada, pp.36-39 , Nov.12-14, 2012. (EI收录)( 60902005  NCET-08-0504  JQ200821 )
 
-#### 2011年
+### 2011年
 
 77.	Hao Zhang, Ting ting Lu, Shanmei Zhang, T. Aaron Gulliver, Performance Analysis of DPPAM UWB Systems over Indoor Fading Channels, 2011 4th IEEE International Symposium on Microwave, Antenna, Propagation and EMC Technologies for Wireless Communications, pp.632-636, November 1-3, 2011 Beijing, China. ( EI收录)
 78.	Hongxia Kang, Xiaodong Tu, Hao Zhang, The Research of Parameters 3-D Location Based on Extended Kaolman Filter, 2011 4th IEEE International Symposium on Microwave, Antenna, Propagation and EMC Technologies for Wireless Communications, pp.424-426, November 1-3, 2011 Beijing, China.( EI待收录)
