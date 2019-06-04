@@ -6,7 +6,7 @@
   url: "/people/"
   side: left
 
-- title: "著作"
+- title: "成果"
   url: "/publication/"
   side: left
 
@@ -14,9 +14,9 @@
   url: "/recruitment/"
   side: left
 
-- title: "English Version"
-  url: "/publication/"
-  side: right
+# - title: "English Version"
+  # url: "/publication/"
+  # side: right
 
 # - title: "项目"
 #   url: "/project/"

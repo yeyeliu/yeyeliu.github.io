@@ -3,8 +3,8 @@
 <?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>CVAI Lab</title>
-		<description>欢迎访问四川大学人工智能与计算机视觉课题组</description>
+		<title>UWB Lab</title>
+		<description>欢迎访问中国海洋大学UWB实验室</description>
 		<link>http://localhost:4000/</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
