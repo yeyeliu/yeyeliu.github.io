@@ -83,7 +83,7 @@ permalink: "/people/"
 	
 		{% include member.html photo="../images/people/zhaopian.jpg" name="王生伟" title="硕士三年级在读" %}
 		
-		{% include member.html photo="../images/people/zhaopian.jpg" name="张帮龙" title="硕士三年级在读." %}
+		{% include member.html photo="../images/people/zhaopian.jpg" name="张帮龙" title="硕士三年级在读" %}
 		
 	</div>
 </div>
@@ -97,8 +97,8 @@ permalink: "/people/"
 
 	<div class="row">
 	
-		{% include member.html photo="../images/people/zhaopian.jpg" name="张萍" title="硕士三年级在读." %}
-		{% include member.html photo="../images/people/zhaopian.jpg" name="朱秀娟" title="硕士三年级在读." %}
+		{% include member.html photo="../images/people/zhaopian.jpg" name="张萍" title="硕士三年级在读" %}
+		{% include member.html photo="../images/people/zhaopian.jpg" name="朱秀娟" title="硕士三年级在读" %}
 		{% include member.html %}
 		{% include member.html %}
 	</div>
